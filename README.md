@@ -5,7 +5,6 @@
 
 A GUI application that converts INR to USD. #CurrencyConverter
 
----
 ## Used in this project
 - Tkinter
 - Python
