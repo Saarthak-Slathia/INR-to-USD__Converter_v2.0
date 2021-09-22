@@ -14,6 +14,9 @@ A GUI application that converts INR to USD. #CurrencyConverter
     
 ---
 
+### Installing Python
+You can install python from the website <a href="https://python.org" target="_blank">www.python.org</a>
+
 #### If you find the repository helpful, do give it a 🌟⭐
 ### Thank You !!!
 
